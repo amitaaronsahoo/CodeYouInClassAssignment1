@@ -5,7 +5,7 @@ class Program
     static void Main(string[] args)
     {
         string a; 
-        Console.WriteLine($"Type something")
+        Console.WriteLine($"Type something");
 
         a = Console.ReadLine(); 
         
